@@ -5,3 +5,4 @@ ipython
 jupyter
 flask
 Click
+jupyter_contrib_nbextensions
