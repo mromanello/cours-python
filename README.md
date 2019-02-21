@@ -12,7 +12,7 @@ Ce livre n'attend de vous aucun prérequis de programmation. Ce livre est une tr
 
 ## Credits
 
-Ce materials appartiens à un cours de python enseigné à l'ENC par Thibault Clérice, basé sur le cours de M. Munson et  F. Karsdorp pour les premiers chapitres.
+Ce materials appartiens à un cours de python enseigné à l'ENC par Thibault Clérice, basé sur le cours de M. Munson et  F. Karsdorp pour les premiers chapitres. Il a été légérement adapté et modifié par Matteo Romanello pour l'utiliser dans un cours donné avec Prof. David Bouvier ([*Anthropologie et étude de l'imaginaire grec. Approcher l'Iliade et son imaginaire avec des outils numériques.*](https://applicationspub.unil.ch/interpub/noauth/php/Ud/ficheCours.php?v_enstyid=68599&v_blocid=24476&v_ueid=171&v_etapeid1=28552&v_langue=fr))
 
 ## Utiliser les notebooks
 
