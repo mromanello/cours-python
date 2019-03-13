@@ -1,8 +1,8 @@
-feedparser
+
 requests
 lxml
 ipython
 jupyter
-flask
+greek-accentuation
 Click
 jupyter_contrib_nbextensions
