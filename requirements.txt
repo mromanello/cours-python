@@ -1,4 +1,4 @@
-
+cltk
 requests
 lxml
 ipython
@@ -6,3 +6,4 @@ jupyter
 greek-accentuation
 Click
 jupyter_contrib_nbextensions
+python-Levenshtein
